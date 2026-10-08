@@ -1,0 +1,2 @@
+# premium-millinery-001-millinery-hat-block-felt-ste
+Stop losing track of your hat blocks and felt steam settings — the Millinery Hat Block &amp; Felt Steam Craft Lab turns scattered notes into a single, searchable lab notebook for your millinery experiments.  This Notion template solves the chaos of managing multiple block sizes, felt types, and steam techniques. It centralizes all your block dimensions
